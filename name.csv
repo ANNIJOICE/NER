@@ -1,0 +1,14 @@
+Sentence #,Word,Tag
+Sentence: 1,My,O
+1,name,O
+1,is,O
+1,annijoice,B-per
+1,from,O
+1,London,B-geo
+2,Here,O
+2,Muruga,B-per
+3,This,O
+3,is,O
+3,Thalapathy,B-per
+3,from,O
+3,puliampatty,B-geo
