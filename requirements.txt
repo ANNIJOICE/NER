@@ -107,7 +107,7 @@ pydot==1.4.1
 Pygments==2.6.1
 pygobject==3.26.1
 PyHamcrest==2.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pymacaroons==0.13.0
 pymongo==3.10.1
